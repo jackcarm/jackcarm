@@ -2,7 +2,7 @@
 
 <section style="display: flex; flex-direction: column" align = "center">
 
-<p>I'm a Junior Software Developer who has recently graduated from CodeClan</p>
+<p>I'm a Junior Software Developer who has recently graduated from CodeClan who is open to work!</p>
 
 
 </section>
